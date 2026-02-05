@@ -45,7 +45,7 @@
 
 ## Datawrapper
 
-- ![Datawrapper](output/DataWrapperplot.png)
+- ![Datawrapper](output/Datawrapperplot.png)
 
 - Datawrapper was the easiest to use in the moment because it’s all GUI-based and you can get a chart made quickly. The downside is it came out the worst compared to my other versions because it doesn’t give enough customization to really match the reference. I ran into issues where the bubbles didn’t reflect size the way I wanted, and making specific changes was harder than I expected because you’re limited to whatever options Datawrapper gives you. For instance, I wasn't able to move the legends from the top of the graph to the right side like the demo graph suggested.Overall, Datawrapper is good if you need a fast chart that looks clean for publishing, but if you’re trying to replicate a reference very closely, it feels clunky and not that intuitive.
 
